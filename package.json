@@ -1,6 +1,6 @@
 {
   "name": "vamshi-anime-schedule",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool to fetch and display anime schedules.",
   "main": "index.js",
   "type": "module",
